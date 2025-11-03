@@ -86,7 +86,7 @@ def main():
     fib = caching_fibonacci()
     print(f"fib(10) = {fib(10)}")  # 55
 
-    # --- Demo for sum_profit + generator_numbers ---
+    # --- Demo for generator_numbers ---
     text = (
         "Загальний дохід працівника складається з декількох частин: "
         " 1000.01 як основний дохід, доповнений додатковими надходженнями "
